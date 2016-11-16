@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-
+  "author": "jit, schmaltz",
   "name": "Email Status Genereator from JIRA data",
   "description": "see title",
   "version": "1.0",
